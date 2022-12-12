@@ -2,13 +2,17 @@
 # Moodle
 
 ### Creació de categories i subcategories
-Ens hem de posar en mode edició per començar a afegir categories i subcategories
-![Screenshot from 2022-12-12 18-56-57](https://user-images.githubusercontent.com/114423396/207119601-47e79641-a2e4-4019-a3c2-9dbf22dd32d8.png)
-s'ha d'anar a "Administracion del sitio" dins a l'apartat de "cursos" i dins de cursos a l'apartat de
-"Administrar cursos y categorías"
-![image](https://user-images.githubusercontent.com/114423396/207121247-5be5fe74-03ac-4360-9107-b6b3f25e0b3c.png)
+Ens hem de posar en mode edició per començar a afegir categories i subcategories                                                                             
+![Screenshot from 2022-12-12 18-56-57](https://user-images.githubusercontent.com/114423396/207119601-47e79641-a2e4-4019-a3c2-9dbf22dd32d8.png)                        
+S'ha d'anar a "Administracion del sitio" dins a l'apartat de "cursos" i dins de cursos a l'apartat de "Administrar cursos y categorías"                                                                                                                            
+![image](https://user-images.githubusercontent.com/114423396/207121247-5be5fe74-03ac-4360-9107-b6b3f25e0b3c.png)                                            
+Per últim hem de fer click al següent botó per crear una categoria                                                                                               
+![image](https://user-images.githubusercontent.com/114423396/207122262-77223ad6-b52a-47e5-a321-44e4ad2a68f2.png)
+ 
+### Creació de cursos                                                                                                                                        
+s'ha d'anar a "Administracion del sitio" dins a l'apartat de "cursos" i dins de cursos a l'apartat de "Administrar cursos y categorías" i dins fer click a "crear nuevo curso"                                                                                                                                                           
+![image](https://user-images.githubusercontent.com/114423396/207122951-6758d6ca-8423-4f3c-af4e-10649d1cfbe6.png)
 
-### Creació de cursos 
 
 ### Resulocio de problemes
 
