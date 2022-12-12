@@ -3,8 +3,9 @@
 ## Índex
 * Creació de categories i subcategories
 * Creació de cursos 
+* Usuaris
 * Resulocio de problemes
-* 
+
 
 
 ### Creació de categories i subcategories
@@ -25,6 +26,39 @@ s'ha d'anar a "Administracion del sitio" dins a l'apartat de "cursos" i dins de 
 Cursos creats:                                                                                                                                                                            
 ![image](https://user-images.githubusercontent.com/114423396/207124741-c7077c94-97fb-42bf-b326-12145a7a398a.png)
 
+### Usuaris   
+  #### Quins tipus d'usuaris (rols diferents) existeixen a Moodle?
+  Al moodle hi han quatre tipus de rols per als usuaris:
+  
+* Administrador/Gestor
+* Profesor con permiso de edición
+* Profesor tutor
+* Estudiante
+
+ #### Quins rols poden assignar cada tipus d'usuaris?
+ 
+ **Administrador
+
+* Configuració i manteniment del Moodle ( Entorn, Administració dels mòduls, noves versions, etc.).
+* Gestió dels usuaris:
+  * Donar d'alta als usuaris
+  * Autenticació dels usuaris
+  * Assignació dels perfils a cadascun dels usuaris (professor, tutor, alumne).
+* Gestió dels cursos:
+  * Creació de nous cursos
+  * Manteniment d'aquests.
+  
+ #### Crea tres usuaris:
+* Un Professor anomenat Cognom_1_profe.
+* Un Professor anomenat Cognom_2_profe.
+* Un professor No editor anomenat Cognom_3_profe.                                                                                                           
+
+S'ha d'anar a "Administracion del sitio" dins a l'apartat de "usuarios" i dins de usuarios a l'apartat de "Examinar lista de usuarios" dins d'aquest apartat per crear un usuari domés haurem de fer click al botó de "crear un nuevo usuario"
+![image](https://user-images.githubusercontent.com/114423396/207131529-93589a1c-9a14-41f1-8a98-5d3f962491aa.png)
+
+
+Aquests són els usuaris que he creat:
+![image](https://user-images.githubusercontent.com/114423396/207131328-5cab5dc3-ced3-47c9-acb7-788b4646cb73.png)
 
 ### Resulocio de problemes
 
