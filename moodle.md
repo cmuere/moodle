@@ -1,5 +1,11 @@
 
 # Moodle
+## Índex
+* Creació de categories i subcategories
+* Creació de cursos 
+* Resulocio de problemes
+* 
+
 
 ### Creació de categories i subcategories
 Ens hem de posar en mode edició per començar a afegir categories i subcategories                                                                             
