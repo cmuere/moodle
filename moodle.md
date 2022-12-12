@@ -37,7 +37,7 @@ Cursos creats:
 
  #### Quins rols poden assignar cada tipus d'usuaris?
  
- **Administrador
+ **Administrador**
 
 * Configuració i manteniment del Moodle ( Entorn, Administració dels mòduls, noves versions, etc.).
 * Gestió dels usuaris:
@@ -47,6 +47,17 @@ Cursos creats:
 * Gestió dels cursos:
   * Creació de nous cursos
   * Manteniment d'aquests.
+  
+  **Professor**
+
+
+* gestió i administració
+* comunicació
+* desenvolupament de continguts
+* desenvolupo de materials interactius 
+* col·laboració
+* avaluació i seguiment 
+* personalització
   
  #### Crea tres usuaris:
 * Un Professor anomenat Cognom_1_profe.
