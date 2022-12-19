@@ -80,3 +80,4 @@ Entrarem a **Mis cursos** i després entrarem al curs que vulguesim i entrarem a
 ![image](https://user-images.githubusercontent.com/114423396/208489086-817e458b-7aa0-4e6f-b8d9-012e243fa52f.png)
 ![image](https://user-images.githubusercontent.com/114423396/208489287-c4e7cbe9-84a5-4385-b00e-078a97887ef6.png)
 
+### Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA
