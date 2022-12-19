@@ -85,3 +85,6 @@ Entrarem a **Mis cursos** i després entrarem al curs que vulguesim i entrarem a
 ![image](https://user-images.githubusercontent.com/114423396/208490146-6ce70f01-9f30-4069-ab00-45a0d2046e99.png)
 ![image](https://user-images.githubusercontent.com/114423396/208491055-a77a7ece-f1d6-402b-ba47-f26bf2787897.png)
 ### Fes que Cognom_3_profe sigui professor de tots els cursos
+![image](https://user-images.githubusercontent.com/114423396/208492301-3dd5b267-dac0-46b3-818d-bc5f2978f1b7.png)
+![image](https://user-images.githubusercontent.com/114423396/208492385-b2388e83-6faa-45df-8c67-cdae073674f2.png)
+
