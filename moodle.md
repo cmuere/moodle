@@ -59,7 +59,16 @@ Cursos creats:
 * avaluació i seguiment 
 * personalització
   
- #### Crea tres usuaris:
+  **Estudiante**
+  Los alumnos son los usuarios a los cuales van dirigidos los cursos. En este tipo de aprendizaje es fundamental la participación activa del alumno en su aprendizaje, ya que existe una cierta autonomía en el aprendizaje, proporcionada por el propio entorno. Para poder realizar un curso online es necesario que el estudiante sea autónomo en sus aprendizajes, responsable y organizado, asimismo resulta fundamental el nivel de motivación.
+
+Entre las actividades que ha de realizar el alumno está:
+
+* Participar activamente en el curso: actividades, foro de debates, tutorías, etc.
+* Colaboración en todas las actividades grupales, tanto con el profesor responsable como con el tutor.
+* Envío de las actividades a realizar dentro de la fecha establecida.
+
+#### Crea tres usuaris:
 * Un Professor anomenat Cognom_1_profe.
 * Un Professor anomenat Cognom_2_profe.
 * Un professor No editor anomenat Cognom_3_profe.                                                                                                           
@@ -70,6 +79,9 @@ S'ha d'anar a "Administracion del sitio" dins a l'apartat de "usuarios" i dins d
 
 Aquests són els usuaris que he creat:
 ![image](https://user-images.githubusercontent.com/114423396/207131328-5cab5dc3-ced3-47c9-acb7-788b4646cb73.png)
+
+### Crea un alumne anomenat Cognom_1_alumne
+
 
 ### Resulocio de problemes
 
