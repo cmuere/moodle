@@ -70,3 +70,13 @@ Ens apareixera la següent finestra
 ![image](https://user-images.githubusercontent.com/114423396/208477308-abe48352-e24e-43b5-9888-bf7a0c4175e6.png)
 
 Farem click en "subir usuarios" i ja estaria
+
+### Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07
+
+Entrarem a **Mis cursos** i després entrarem al curs que vulguesim i entrarem a **participantes** i a **Matricuñar usuaris**
+![image](https://user-images.githubusercontent.com/114423396/208488685-5b5e3044-a968-4281-97da-82c2b8f9baf1.png)
+![image](https://user-images.githubusercontent.com/114423396/208488766-6b0c8a9a-df18-43bd-afd3-c6b32633d8a7.png)
+![image](https://user-images.githubusercontent.com/114423396/208488900-2f6ee1a4-4869-4724-9435-9671baec88ef.png)
+![image](https://user-images.githubusercontent.com/114423396/208489086-817e458b-7aa0-4e6f-b8d9-012e243fa52f.png)
+![image](https://user-images.githubusercontent.com/114423396/208489287-c4e7cbe9-84a5-4385-b00e-078a97887ef6.png)
+
