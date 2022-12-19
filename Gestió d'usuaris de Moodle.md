@@ -53,3 +53,20 @@ Aquests són els usuaris que he creat:
 ![image](https://user-images.githubusercontent.com/114423396/207131328-5cab5dc3-ced3-47c9-acb7-788b4646cb73.png)
 
 ### Crea un alumne anomenat Cognom_1_alumne
+![image](https://user-images.githubusercontent.com/114423396/208475053-8910ea5f-4727-49e2-8c95-af806934d4e5.png)
+
+### Afegeix un fitxer d'usuaris des de fitxer (4 companys/es de classe) simultàniament carregant un fitxer de dades, com es veu a la imatge.
+
+Entrarem dins de usuaris a la administració del lloc i després dins de **Subir usuarios**
+![image](https://user-images.githubusercontent.com/114423396/208475822-79d36ce1-413a-4f65-a6ce-7adf51642d96.png)
+Després hem de descarregar el arxiu exemple i editarlo amb un editor de arxius txt
+![image](https://user-images.githubusercontent.com/114423396/208476231-1efe9d2e-ac06-4859-9f2b-b2cdf3dce6bc.png)
+![image](https://user-images.githubusercontent.com/114423396/208477092-3d87d8e2-9468-466e-9b5f-3a47a84a45b3.png)
+
+I per últim puigarem l'arxiu
+![image](https://user-images.githubusercontent.com/114423396/208477218-c990a665-0b9a-48a5-a050-91274405ec28.png)
+
+Ens apareixera la següent finestra
+![image](https://user-images.githubusercontent.com/114423396/208477308-abe48352-e24e-43b5-9888-bf7a0c4175e6.png)
+
+Farem click en "subir usuarios" i ja estaria
