@@ -37,4 +37,20 @@ Fes clic a "Desa canvis" per desar la teva configuració.
 ![image](https://user-images.githubusercontent.com/114423396/213261615-24a27d90-0ba8-4cb9-af17-1bd306ebe85d.png)
 
 * Canvia el primer dia de la setmana del calendari a Diumenge.
+Vés a "Administració del lloc" al menú de navegació de l'esquerra, selecciona "Aparença" i després "Calendari"![Screenshot from 2023-01-18 19-16-18](https://user-images.githubusercontent.com/114423396/213262232-dc340fa0-06fb-4413-94c2-5f0c6455f226.png)
+![image](https://user-images.githubusercontent.com/114423396/213262328-82bb5819-5fe2-4302-9d11-4c7f2f0e1d74.png)
+
+Cerca l'opció "Primer dia de la setmana" i selecciona "Diumenge" al menú desplegable.
+Fes clic a "Desa canvis" per desar la teva configuració.
+![image](https://user-images.githubusercontent.com/114423396/213262386-8a2afcbd-5465-4b23-9b76-5c6818c75d82.png)
+![image](https://user-images.githubusercontent.com/114423396/213262418-87a9998e-1f94-4e6e-983d-03f23dfc5861.png)
+![image](https://user-images.githubusercontent.com/114423396/213262485-d9564698-05aa-4bc9-983a-0cc80db0fe95.png)
+
 * Fes que només els contactes de l'usuari puguin enviar-li missatges.
+A la part de "Preferences" dins de "Preferences de missatges"
+![image](https://user-images.githubusercontent.com/114423396/213263771-9f3af26d-0be6-4db5-9f30-47eeebe41bb5.png)
+En sortiran les següents opcións
+![image](https://user-images.githubusercontent.com/114423396/213263842-3abf00a1-0044-4550-8fd4-27152222ef89.png)
+Farem click en "Unicament els meus contactes"
+![image](https://user-images.githubusercontent.com/114423396/213263916-bafe31d0-ab59-43c3-b7c3-7ec54ea82c90.png)
+
