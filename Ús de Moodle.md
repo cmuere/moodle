@@ -55,7 +55,9 @@ Farem click en "Unicament els meus contactes"
 ![image](https://user-images.githubusercontent.com/114423396/213263916-bafe31d0-ab59-43c3-b7c3-7ec54ea82c90.png)                                                                                   
 
 ## Cursos
-* Crea un Curs nou anomenat "Programació amb Python" dins de la categoria 2n curs -> DAM.
+* Crea un Curs nou anomenat "Programació amb Python" dins de la categoria 2n curs -> DAM.              ![image](https://user-images.githubusercontent.com/114423396/213272032-798e13c9-fbe4-4521-a06e-219bf615838e.png)
+![image](https://user-images.githubusercontent.com/114423396/213272382-5cee2b98-c094-489c-8a0e-dba71fff798e.png)
+
 * Inscriu a tots els alumnes al curs.
 * Inscriu a tots els professors al curs.
 * Crea un fòrum general de dubtes (el d'anuncis no serveix).
