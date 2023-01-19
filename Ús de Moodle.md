@@ -81,11 +81,31 @@ Farem click en "Unicament els meus contactes"
 ![image](https://user-images.githubusercontent.com/114423396/213504205-27530781-2698-4332-867b-dd2b4d2735dc.png)
 
 * Oculta la resta de temes del curs.
-* Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. 
+![image](https://user-images.githubusercontent.com/114423396/213506459-035a5054-3be2-4567-861a-dd6134f8a515.png)
+
+* Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python.
+ ![image](https://user-images.githubusercontent.com/114423396/213521709-d0dfd8bc-3f8c-4cf7-aa22-970b6c39970d.png)                                                                                           
+ Després afeguirem la tasca
+ ![image](https://user-images.githubusercontent.com/114423396/213522798-aec45f9e-853a-4593-b7ca-1dc155e5eeab.png)
+![image](https://user-images.githubusercontent.com/114423396/213522948-eefec5d0-dd7d-4af7-b856-51fa0540ead5.png)
+
 * Fes que els alumnes contestin la tasca (mínim 3).
+![image](https://user-images.githubusercontent.com/114423396/213523614-653f08e8-ae54-40f7-a206-761ce979dfdd.png)
+
 * Qualifica la tasca de l'alumnat.
+El que hem de fer es entrar dins de la tasca 
+![image](https://user-images.githubusercontent.com/114423396/213524928-9f4fca10-2231-4b75-9a53-9345820355db.png)
+                                                                                                     Després posariem la nosta i guardariem els canvis
+                                                                                                     ![image](https://user-images.githubusercontent.com/114423396/213525169-6123fd70-3c49-4037-b349-ac20b10199aa.png)
+![image](https://user-images.githubusercontent.com/114423396/213525221-25fe1742-378c-4f8c-b7d4-7191720e4087.png)
+
 * Mostra les qualificacions de l'alumnat.
+![image](https://user-images.githubusercontent.com/114423396/213525447-992c2605-4186-406d-bbee-93524997d70b.png)
+
 * Com a perfil d'alumne mostra la teva qualificació.
+![image](https://user-images.githubusercontent.com/114423396/213525688-22280da5-ba88-458a-9c58-bc3b9f203818.png)
+
 * Crea una activitat de consulta amb una pregunta sobre què costa més a l'alumnat sobre el tema del curs amb 4 opcions.
+
 * Com a alumne/a contesta la consulta.
 * Com a professor mostra les contestacions de la consulta.
