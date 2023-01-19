@@ -106,6 +106,7 @@ El que hem de fer es entrar dins de la tasca
 ![image](https://user-images.githubusercontent.com/114423396/213525688-22280da5-ba88-458a-9c58-bc3b9f203818.png)
 
 * Crea una activitat de consulta amb una pregunta sobre què costa més a l'alumnat sobre el tema del curs amb 4 opcions.
+Hem de afeguir la tasca i crear un questionari.                                                         
 
 * Com a alumne/a contesta la consulta.
 * Com a professor mostra les contestacions de la consulta.
