@@ -59,9 +59,18 @@ Farem click en "Unicament els meus contactes"
 ![image](https://user-images.githubusercontent.com/114423396/213272382-5cee2b98-c094-489c-8a0e-dba71fff798e.png)
 
 * Inscriu a tots els alumnes al curs.
+![image](https://user-images.githubusercontent.com/114423396/213498572-f30c2bb6-ca53-4890-8c32-80c8c8fed508.png)
+
 * Inscriu a tots els professors al curs.
+![image](https://user-images.githubusercontent.com/114423396/213491740-58422061-d40e-40e0-b6df-367885ef0570.png)
+
 * Crea un fòrum general de dubtes (el d'anuncis no serveix).
+![image](https://user-images.githubusercontent.com/114423396/213495523-779b769d-2dfa-4e81-b319-65f6fd1a54ab.png)
+
 * Fes que dos estudiants fassin consultes al fòrum.
+![image](https://user-images.githubusercontent.com/114423396/213497439-801462b0-4f2d-4876-9d04-bd05252f8ea4.png)
+![image](https://user-images.githubusercontent.com/114423396/213497832-cf2b0cd0-25d9-4ab8-8e49-cb4c8f788518.png)
+
 * Contesta les preguntes amb un perfil de professor.
 * Crea un tema anomenat "Fonaments de Python".
 * Oculta la resta de temes del curs.
