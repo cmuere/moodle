@@ -70,9 +70,16 @@ Farem click en "Unicament els meus contactes"
 * Fes que dos estudiants fassin consultes al fòrum.
 ![image](https://user-images.githubusercontent.com/114423396/213497439-801462b0-4f2d-4876-9d04-bd05252f8ea4.png)
 ![image](https://user-images.githubusercontent.com/114423396/213497832-cf2b0cd0-25d9-4ab8-8e49-cb4c8f788518.png)
+![image](https://user-images.githubusercontent.com/114423396/213499209-5d6d34da-1f9c-4a94-a348-51070d7311c7.png)
+![image](https://user-images.githubusercontent.com/114423396/213499275-0c4e7257-c427-4dac-bf33-74315577f116.png)
 
 * Contesta les preguntes amb un perfil de professor.
+![image](https://user-images.githubusercontent.com/114423396/213499501-6319e9d8-cdcd-4a55-801e-943ccb6e2b20.png)
+![image](https://user-images.githubusercontent.com/114423396/213499681-25e3fe6d-72fd-4b88-a059-294bd21a2d76.png)
+
 * Crea un tema anomenat "Fonaments de Python".
+![image](https://user-images.githubusercontent.com/114423396/213504205-27530781-2698-4332-867b-dd2b4d2735dc.png)
+
 * Oculta la resta de temes del curs.
 * Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. 
 * Fes que els alumnes contestin la tasca (mínim 3).
